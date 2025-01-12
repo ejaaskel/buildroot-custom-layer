@@ -1,0 +1,1 @@
+CURL_EXAMPLE_OVERRIDE_SRCDIR = ./buildroot-custom-layer/package/curl-example/src
