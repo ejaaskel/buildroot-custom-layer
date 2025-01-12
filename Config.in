@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_EXAMPLELAYER_PATH/package/curl-example/Config.in"
