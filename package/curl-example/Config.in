@@ -1,0 +1,7 @@
+config BR2_PACKAGE_CURL_EXAMPLE
+	bool "curl-example"
+	select BR2_PACKAGE_LIBCURL
+	help
+	  Example demonstrating curl usage
+
+	  https://ejaaskel.dev
